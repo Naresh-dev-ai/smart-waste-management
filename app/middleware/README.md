@@ -1,0 +1,1 @@
+Cross-cutting exception handling and request security are configured in `app/main.py` and `app/core/security.py`. For production, add structured request logging, correlation IDs, trusted-host/CORS policies, and rate limiting at the gateway.

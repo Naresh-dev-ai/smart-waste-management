@@ -1,0 +1,1 @@
+Run `python -m scripts.seed_categories` from the project root after installing dependencies to add the seven assignment waste categories. Add an empty `scripts/__init__.py` if using module execution on older Python environments.
